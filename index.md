@@ -32,6 +32,13 @@ There is an extensive trail network in [Pippy Park](https://www.trailforks.com/r
 
 Newfoundland is a perfect place for adventure riding on a fatbike with the [T'Railway](https://www.trailway.ca/) running across the entire island. See the excellent ride reports from [Malcom at slow:biker](https://theslowbiker.wordpress.com/) and [bikepacking.com](https://bikepacking.com/routes/newfoundland-trailway/).
 
+### Events
+- [Pouch Cove Classic](https://www.facebook.com/Pouch-Cove-Classic-Road-Bike-Race-2389591537944614): Spring road race with 30km-90km distance options.
+- [St. John's Short Track MTB Race Series by The Outfitters](https://www.facebook.com/SJShortTrack/): Short track XC m,.untain bike race for all ages.
+- [St. John's Enduro Series](https://www.facebook.com/SJES19/). Enduro mountain bike race series.
+- [Trepassey Posse](https://www.facebook.com/groups/2074198909535988/)
+- [BonRexton Gran Fondo](https://www.facebook.com/BonRextonFondo/). Gran Fondo ride including Port Rexton and Bonavista.
+
 ### Bike Shops
 - [Canary Cycles](https://www.canarycycles.ca/). Brands: Trek, Specialized, Rocky Mountain, ?
 - [Freeride Mountain Sports](http://www.freeridems.com/). Brands: Devinci, Yeti, ?
