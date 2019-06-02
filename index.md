@@ -34,7 +34,7 @@ Newfoundland is a perfect place for adventure riding on a fatbike with the [T'Ra
 
 ### Events
 - [Pouch Cove Classic](https://www.facebook.com/Pouch-Cove-Classic-Road-Bike-Race-2389591537944614): Spring road race with 30km-90km distance options.
-- [St. John's Short Track MTB Race Series by The Outfitters](https://www.facebook.com/SJShortTrack/): Short track XC m,.untain bike race for all ages.
+- [St. John's Short Track MTB Race Series by The Outfitters](https://www.facebook.com/SJShortTrack/): Short track XC mountain bike race for all ages.
 - [St. John's Enduro Series](https://www.facebook.com/SJES19/). Enduro mountain bike race series.
 - [Trepassey Posse](https://www.facebook.com/groups/2074198909535988/)
 - [BonRexton Gran Fondo](https://www.facebook.com/BonRextonFondo/). Gran Fondo ride including Port Rexton and Bonavista.
