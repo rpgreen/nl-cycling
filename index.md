@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Open Guide to Cycling in Newfoundland and Labrador
 
-You can use the [editor on GitHub](https://github.com/rpgreen/nl-cycling/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is an open-source, crowdsourced guide to cycling in Newfoundland and Labrador. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The goal for this site is to aggregate useful information for road, mountain, and fatbiking around Newfoundland and Labrador.
 
-### Markdown
+Trail information, trail building info, road cycling, commuting, and family-friendly bike routes.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The content for this site is accessible at [nl-cycling.github.io](https://nl-cycling.github.io).
 
-```markdown
-Syntax highlighted code block
+## How to Contribute
+You can use the [editor on GitHub](https://github.com/rpgreen/nl-cycling/edit/master/index.md) to edit and preview the content of this file in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
 
-# Header 1
-## Header 2
-### Header 3
+Once changes are completed and tested, commit the change using the option "Create a new branch for this commit and start a pull request.". A moderator will review the change and merge it back into the codebase and it will become live on the site.
 
-- Bulleted
-- List
+## Regions
 
-1. Numbered
-2. List
+### St. John's Metro
 
-**Bold** and _Italic_ and `Code` text
+#### Commuting
+See [Bike St. John's maps](http://www.bikestjohns.ca/maps/) for current infrastructure and [City of St. John's Bike Master Plan](https://www.engagestjohns.ca/6586/documents/16412) for planned expansion.
 
-[Link](url) and ![Image](src)
-```
+#### Recreational/Family
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Road
 
-### Jekyll Themes
+#### Mountain
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rpgreen/nl-cycling/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Fatbiking
+There is an extensive trail network in [Pippy Park](https://www.trailforks.com/region/pippy-park/) with trails groomed by volunteers for snowbiking throughout the winter. The trails are well marked and generally accessible. Grooming reports, ride reports, and group rides are posted regularly in the [Avalon Fatbikers] Facebook group.
 
-### Support or Contact
+[Richmond Hill](https://www.trailforks.com/region/richmond-hill-13822/) is also a great area for winter fatbiking with a dedicated maintaners and groomers and some fun, fast trails. Grooming and ride reports are posted in the [Richmond Hill-Southside Mountain Bike Trails](https://www.facebook.com/groups/487348724623180/)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Newfoundland is a perfect place for adventure riding on a fatbike with the [T'Railway] (https://www.trailway.ca/) running across the entire island. See the excellent ride reports from [Malcom at slow:biker] (https://theslowbiker.wordpress.com/) and [bikepacking.com](https://bikepacking.com/routes/newfoundland-trailway/).
+
+### Corner Brook
+Please contribute!
+
+## Resources
+Facebook Groups:
+- [Avalon Fatbikers](https://www.facebook.com/groups/217745801944217/)
+
+## Moderators
+- Ryan Green (rpgreen@)
+
+## Contributors
+- Ryan Green (rpgreen@)
