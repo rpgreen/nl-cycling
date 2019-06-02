@@ -45,7 +45,7 @@ Please contribute!
 - [Richmond Hill-Southside Mountain Bike Trails](https://www.facebook.com/groups/487348724623180/)
 - [St. John's Cycling Group](https://www.facebook.com/groups/stjohnscycling/)
 - [FMRS Trail Building and Riding](https://www.facebook.com/groups/833332940068319/)
-- [http://bicyclenl.com](Bicycle NL): Bicycle Newfoundland and Labrador (BNL) is a non-profit, member based organization and the official governing body for the sport of cycling in Newfoundland and Labrador.
+- [Bicycle NL](http://bicyclenl.com): Bicycle Newfoundland and Labrador (BNL) is a non-profit, member based organization and the official governing body for the sport of cycling in Newfoundland and Labrador.
 - [Trailforks](https://www.trailforks.com/region/newfoundland/): Crowdosourced trail maps and reports.
 
 ## Moderators
