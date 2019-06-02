@@ -6,25 +6,25 @@ The goal for this site is to aggregate useful information for road, mountain, an
 
 The content for this site is accessible at [nl-cycling.github.io](https://nl-cycling.github.io).
 
-## How to Contribute
+# How to Contribute
 You can use the [editor on GitHub](https://github.com/rpgreen/nl-cycling/edit/master/index.md) to edit and preview the content of this file in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
 
 Once changes are completed and tested, commit the change using the option "Create a new branch for this commit and start a pull request.". A moderator will review the change and merge it back into the codebase and it will become live on the site.
 
-## Regions
+# Regions
 
-### St. John's Metro
+## St. John's Metro
 
-#### Commuting
+### Commuting
 See [Bike St. John's maps](http://www.bikestjohns.ca/maps/) for current infrastructure and [City of St. John's Bike Master Plan](https://www.engagestjohns.ca/6586/documents/16412) for planned expansion.
 
-#### Recreational/Family
+### Recreational/Family
 
-#### Road
+### Road
 
-#### Mountain
+### Mountain
 
-#### Fatbiking
+### Fatbiking
 There is an extensive trail network in [Pippy Park](https://www.trailforks.com/region/pippy-park/) with trails groomed by volunteers for snowbiking throughout the winter. The trails are well marked and generally accessible. Grooming reports, ride reports, and group rides are posted regularly in the [Avalon Fatbikers](https://www.facebook.com/groups/217745801944217/)
  Facebook group.
 
@@ -32,15 +32,21 @@ There is an extensive trail network in [Pippy Park](https://www.trailforks.com/r
 
 Newfoundland is a perfect place for adventure riding on a fatbike with the [T'Railway](https://www.trailway.ca/) running across the entire island. See the excellent ride reports from [Malcom at slow:biker](https://theslowbiker.wordpress.com/) and [bikepacking.com](https://bikepacking.com/routes/newfoundland-trailway/).
 
-### Corner Brook
+### Bike Shops
+- [Canary Cycles](https://www.canarycycles.ca/). Brands: Trek, Specialized, Rocky Mountain, ?
+- [Freeride Mountain Sports](http://www.freeridems.com/). Brands: Devinci, Yeti, ?
+
+## Corner Brook
 Please contribute!
 
 ## Resources
-Facebook Groups:
+- Facebook Groups:
 - [Avalon Fatbikers](https://www.facebook.com/groups/217745801944217/)
 - [Richmond Hill-Southside Mountain Bike Trails](https://www.facebook.com/groups/487348724623180/)
 - [St. John's Cycling Group](https://www.facebook.com/groups/stjohnscycling/)
 - [FMRS Trail Building and Riding](https://www.facebook.com/groups/833332940068319/)
+- [http://bicyclenl.com](Bicycle NL): Bicycle Newfoundland and Labrador (BNL) is a non-profit, member based organization and the official governing body for the sport of cycling in Newfoundland and Labrador.
+- [Trailforks](https://www.trailforks.com/region/newfoundland/): Crowdosourced trail maps and reports.
 
 ## Moderators
 - Ryan Green (rpgreen@)
