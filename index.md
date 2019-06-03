@@ -2,7 +2,7 @@
 
 This is an open-source, crowdsourced guide to cycling in Newfoundland and Labrador. 
 
-The goal for this site is to increase cycling awareness for locals and tourists alike by collecting existing tribal knowledge from the various groups of cycling enthusiasts in NL.
+The goal for this site is to increase cycling awareness for locals and tourists alike by collecting existing tribal knowledge from cycling enthusiasts in NL.
 
 This guide will aggregate useful information for road, mountain, and fatbiking around Newfoundland and Labrador including suggested routes for road, mountain, fatbike, and family-friendly cycling, group ride information, trail guides, trail building information, advocacy, trip planning, etc. 
 
@@ -24,26 +24,26 @@ See [Bike St. John's maps](http://www.bikestjohns.ca/maps/) for current infrastr
 
 ### Road
 
-Road biking can be a challenge in and around St. John's but you don't have to go far to find quiet town roads and scenic vistas.
+Road biking can be a challenge in St. John's, but fortunately you don't have to go far to find quiet town roads and scenic vistas.
 
 Popular Routes:
-- [St. John's/Cape Spear/Petty Harbour (52km)](https://ridewithgps.com/routes/11613065)
-- ?
+- [Logy Bay/Outer Cove/Middle Cove](25km, 350m)(https://www.strava.com/activities/2410225415): A short ride easily accessible from the east end with quiet roads and nice views. Can be extended to Torbay/Bauline/Portugal Cove/etc.
+- [St. John's/Cape Spear/Petty Harbour (52km, 817m)](https://ridewithgps.com/routes/11613065): A scenic and hilly ride with a break stop in the quaint town of Petty Harbour (don't miss [Watershed Coffee](https://www.facebook.com/watershedcoffeeshop/)).
 
 ### Mountain
 There is an extensive trail network in [Pippy Park](https://www.trailforks.com/region/pippy-park/) with a variety of terrain and plenty of beginner-friendly trails.
 
-[White Hills](https://www.trailforks.com/region/white-hills/) is a classic mountain bike area in St. John's with a dedicated crew of trailbuilders. The trails here are technical intermediate to advanced level trails with some epic ocean and city views. Full-suspension mountain bike is recommended but not required. 
+[White Hills](https://www.trailforks.com/region/white-hills/) is a classic mountain bike area in St. John's with a dedicated crew of trailbuilders. The trails here are technical intermediate to advanced level trails with some epic ocean and city views. Full-suspension mountain bike is recommended but not required.
 
-[Richmond Hill](https://www.trailforks.com/region/richmond-hill-13822/) is also a great area for winter fatbiking with dedicated maintaners and groomers and some fun, fast trails. Grooming and ride reports are posted in the [Richmond Hill-Southside Mountain Bike Trails](https://www.facebook.com/groups/487348724623180/)
+[Richmond Hill](https://www.trailforks.com/region/richmond-hill-13822/) has some fun technical trails in the Southside Hills above Kilbride. Trail building info is posted in [Richmond Hill-Southside Mountain Bike Trails](https://www.facebook.com/groups/487348724623180/). Park at the end of Densmore's Lane cul-de-sac.
 
 ### Fatbiking
-The long winters in St. John's are ideal for fatbiking where you can get out in the woods with some friends and escape the wind and slush and maybe even have a little boilup.
+The long winters in St. John's are ideal for fatbiking where you can get out in the woods with some friends and escape the wind and slush, and maybe even have a little boilup. A dedicated community of riders and groomers helps to keep the snow packed down and fun to ride. The trails can develop ice patches due to the freeze-thaw cycles in St. John's so studded tires are recommended.
 
 There is an extensive trail network in [Pippy Park](https://www.trailforks.com/region/pippy-park/) with trails groomed by volunteers for snowbiking throughout the winter. The trails are well marked and suitable for most skill levels. Grooming reports, ride reports, and group rides are posted regularly in the [Avalon Fatbikers](https://www.facebook.com/groups/217745801944217/)
  Facebook group.
 
-[Richmond Hill](https://www.trailforks.com/region/richmond-hill-13822/) is also a great area for winter fatbiking with dedicated maintaners and groomers and some fun, fast trails. Grooming and ride reports are posted in the [Richmond Hill-Southside Mountain Bike Trails](https://www.facebook.com/groups/487348724623180/)
+[Richmond Hill](https://www.trailforks.com/region/richmond-hill-13822/) is also a great area for winter fatbiking with dedicated maintainers and some fun, fast trails. Grooming and ride reports are posted in the [Richmond Hill-Southside Mountain Bike Trails](https://www.facebook.com/groups/487348724623180/)
 
 Newfoundland is a perfect place for adventures on a fatbike. The [T'Railway](https://www.trailway.ca/) runs 880km across the entire island from Port Aux Basques to St. John's and there are multiple branch routes throughout the island. See the excellent ride reports from [slow:biker](https://theslowbiker.wordpress.com/) and [bikepacking.com](https://bikepacking.com/routes/newfoundland-trailway/).
 
@@ -67,6 +67,10 @@ Newfoundland is a perfect place for adventures on a fatbike. The [T'Railway](htt
 ### Rentals
 - [Freeride Mountain Sports](http://www.freeridems.com/) offers a range of mountain bike rentals.
 - There aren't any shops in St. John's offering road bike rentals as of June, 2019 (step up bike shops!).
+
+### Local Issues
+- [HMP Proposed Site in White Hills](https://www.cbc.ca/news/canada/newfoundland-labrador/new-jail-questions-1.5097667): The proposed site for Her Majesty's Penitentiary in White Hills has potential to disrupt local trail network. Championed by [AMBA](https://www.facebook.com/pg/AMBA709) and NL Trail Runners.
+- [St. John's Bike Master Plan](https://www.engagestjohns.ca/6586/documents/16412): The Bike Master Plan is under review by city council.
 
 ## Corner Brook
 Please [contribute](https://github.com/rpgreen/nl-cycling/edit/master/index.md)
