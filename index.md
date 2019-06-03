@@ -6,7 +6,7 @@ The goal for this site is to increase cycling awareness for locals and tourists 
 
 This guide will aggregate useful information for road, mountain, and fatbiking around Newfoundland and Labrador including suggested routes for road, mountain, fatbike, and family-friendly cycling, group ride information, trail guides, trail building information, advocacy, trip planning, etc. 
 
-The content for this site is accessible at [nl-cycling.github.io](https://nl-cycling.github.io).
+The content for this site is accessible at [nl-cycling.github.io](https://rpgreen.github.io/nl-cycling/).
 
 # How to Contribute
 Anyone with a free GitHub account can contribute to this guide. You can use the [editor on GitHub](https://github.com/rpgreen/nl-cycling/edit/master/index.md) to edit and preview the content of this file in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
@@ -62,7 +62,24 @@ Newfoundland is a perfect place for adventures on a fatbike. The [T'Railway](htt
 - There aren't any shops in St. John's offering road bike rentals as of June, 2019 (step up bike shops!).
 
 ## Corner Brook
-Please [contribute](#Contribute)
+Please [contribute](https://github.com/rpgreen/nl-cycling/edit/master/index.md)
+
+### Commuting
+
+### Recreational/Family
+
+### Road
+
+### Mountain
+
+### Fatbiking
+
+### Events
+
+### Bike Shops
+- [Cycle Solutions](https://www.cyclesolutions.ca/) Full service bike shop offering rentals and tours.
+
+### Rentals
 
 ## Resources
 - [Bicycle NL](http://bicyclenl.com): Bicycle Newfoundland and Labrador (BNL) is a non-profit, member based organization and the official governing body for the sport of cycling in Newfoundland and Labrador.
