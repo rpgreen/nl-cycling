@@ -27,7 +27,7 @@ See [Bike St. John's maps](http://www.bikestjohns.ca/maps/) for current infrastr
 Road biking can be a challenge in St. John's, but fortunately you don't have to go far to find quiet town roads and scenic vistas.
 
 Popular Routes:
-- [Logy Bay/Outer Cove/Middle Cove](25km, 350m)(https://www.strava.com/activities/2410225415): A short ride easily accessible from the east end with quiet roads and nice views. Can be extended to Torbay/Bauline/Portugal Cove/etc.
+- [Logy Bay/Outer Cove/Middle Cove (25km, 350m)](https://www.strava.com/activities/2410225415): A short ride easily accessible from the east end with quiet roads and nice views. Can be extended to Torbay/Bauline/Portugal Cove/etc.
 - [St. John's/Cape Spear/Petty Harbour (52km, 817m)](https://ridewithgps.com/routes/11613065): A scenic and hilly ride with a break stop in the quaint town of Petty Harbour (don't miss [Watershed Coffee](https://www.facebook.com/watershedcoffeeshop/)).
 
 ### Mountain
