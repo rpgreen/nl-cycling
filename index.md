@@ -55,6 +55,11 @@ Newfoundland is a perfect place for adventures on a fatbike. The [T'Railway](htt
 - [BonRexton Gran Fondo](https://www.facebook.com/BonRextonFondo/): Gran Fondo ride including Port Rexton and Bonavista.
 - [Pippy Snowbike Festival](https://www.facebook.com/pippysnowbike/): A winter celebration of fatbiking in Pippy Park.
 
+### Group Rides
+- [TriNL Monday Night Rides](https://www.trinl.com/events/): Accessible summer road rides leaving Mondays at 6:30pm from Rotary Sunshine Camp. TriNL membership required.
+- [BNL 50+ Group Rides](https://www.facebook.com/groups/bnl50plus.stjohns/): Wednesday morning rides for 50+ all spring, summer, and fall (weather-permitting) usually leaving 9AM from Bowring Park west gate parking lot and following the railway bed. BNL Membership required.
+- [BonRexton Training Series](https://www.facebook.com/BonRextonFondo): Progressive Wednesday evening rides building up to the BonRexton Gran Fondo in September.
+
 ### Bike Shops
 - [Canary Cycles](https://www.canarycycles.ca/): Full-service bike shop offering a range of bike types and brands. Brands: Trek, Specialized, Rocky Mountain, ?
 - [Freeride Mountain Sports](http://www.freeridems.com/): Mountain-focused bike shop with a serious knowledge of the local mountain biking scene. Brands: Devinci, Yeti, Scott, Intense, ?
@@ -82,6 +87,9 @@ Please [contribute](https://github.com/rpgreen/nl-cycling/edit/master/index.md)
 - [Cycle Solutions](https://www.cyclesolutions.ca/) Full service bike shop offering rentals and tours.
 
 ### Rentals
+
+## Other Regions
+Please [contribute](https://github.com/rpgreen/nl-cycling/edit/master/index.md)
 
 ## Resources
 - [Bicycle NL](http://bicyclenl.com): Bicycle Newfoundland and Labrador (BNL) is a non-profit, member based organization and the official governing body for the sport of cycling in Newfoundland and Labrador.
