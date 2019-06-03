@@ -38,12 +38,14 @@ There is an extensive trail network in [Pippy Park](https://www.trailforks.com/r
 [Richmond Hill](https://www.trailforks.com/region/richmond-hill-13822/) is also a great area for winter fatbiking with dedicated maintaners and groomers and some fun, fast trails. Grooming and ride reports are posted in the [Richmond Hill-Southside Mountain Bike Trails](https://www.facebook.com/groups/487348724623180/)
 
 ### Fatbiking
+The long winters in St. John's are ideal for fatbiking where you can get out in the woods with some friends and escape the wind and slush and maybe even have a little boilup.
+
 There is an extensive trail network in [Pippy Park](https://www.trailforks.com/region/pippy-park/) with trails groomed by volunteers for snowbiking throughout the winter. The trails are well marked and suitable for most skill levels. Grooming reports, ride reports, and group rides are posted regularly in the [Avalon Fatbikers](https://www.facebook.com/groups/217745801944217/)
  Facebook group.
 
 [Richmond Hill](https://www.trailforks.com/region/richmond-hill-13822/) is also a great area for winter fatbiking with dedicated maintaners and groomers and some fun, fast trails. Grooming and ride reports are posted in the [Richmond Hill-Southside Mountain Bike Trails](https://www.facebook.com/groups/487348724623180/)
 
-Newfoundland is a perfect place for adventures on a fatbike. The [T'Railway](https://www.trailway.ca/) runs 880km across the entire island from Port Aux Basques to St. John's and there are multiple branch routes throughout the island. See the excellent ride reports from [Malcom at slow:biker](https://theslowbiker.wordpress.com/) and [bikepacking.com](https://bikepacking.com/routes/newfoundland-trailway/).
+Newfoundland is a perfect place for adventures on a fatbike. The [T'Railway](https://www.trailway.ca/) runs 880km across the entire island from Port Aux Basques to St. John's and there are multiple branch routes throughout the island. See the excellent ride reports from [slow:biker](https://theslowbiker.wordpress.com/) and [bikepacking.com](https://bikepacking.com/routes/newfoundland-trailway/).
 
 ### Events
 - [Pouch Cove Classic](https://www.facebook.com/Pouch-Cove-Classic-Road-Bike-Race-2389591537944614): Spring road race with 30km-90km distance options.
