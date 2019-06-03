@@ -86,10 +86,10 @@ Please [contribute](https://github.com/rpgreen/nl-cycling/edit/master/index.md)
 ## Resources
 - [Bicycle NL](http://bicyclenl.com): Bicycle Newfoundland and Labrador (BNL) is a non-profit, member based organization and the official governing body for the sport of cycling in Newfoundland and Labrador.
 - Facebook Groups:
--- [Avalon Fatbikers](https://www.facebook.com/groups/217745801944217/)
--- [Richmond Hill-Southside Mountain Bike Trails](https://www.facebook.com/groups/487348724623180/)
--- [St. John's Cycling Group](https://www.facebook.com/groups/stjohnscycling/)
--- [FMRS Trail Building and Riding](https://www.facebook.com/groups/833332940068319/)
+   - [Avalon Fatbikers](https://www.facebook.com/groups/217745801944217/)
+   - [Richmond Hill-Southside Mountain Bike Trails](https://www.facebook.com/groups/487348724623180/)
+   - [St. John's Cycling Group](https://www.facebook.com/groups/stjohnscycling/)
+   - [FMRS Trail Building and Riding](https://www.facebook.com/groups/833332940068319/)
 - [Trailforks](https://www.trailforks.com/region/newfoundland/): Crowdsourced trail maps and reports.
 - [Avalon Mountain Bike Association](https://www.facebook.com/AMBA709/): The Avalon Mountain Bike Association (AMBA) is a not-for-profit organization that is dedicated to building, maintaining and protecting mountain bike trails on the Avalon Peninsula of Newfoundland and Labrador.
 
