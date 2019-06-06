@@ -1,4 +1,6 @@
 # Open Guide to Cycling in Newfoundland and Labrador
+![Petty Harbour](/images/pettyharbour.jpg)
+
 This is an open-source, crowdsourced guide to cycling in Newfoundland and Labrador, written by cyclists for cyclists.
 
 The goal for this site is to increase cycling awareness for locals and tourists alike by collecting existing tribal knowledge from cycling enthusiasts in NL.
